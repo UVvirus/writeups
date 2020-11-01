@@ -1,7 +1,7 @@
 > # supa secure
 >
 > 225 points
->
+![Alt text](writeups/Screenshot from 2020-11-01 16-38-04.png?raw=true "Screenshot from 2020-11-01 16-38-04.png"
 > This time it’s a little tricker to crack the password: 19d14c463333a41a1538dbf9eb76aadf
 >
 > You might also need this for something: cyctf
