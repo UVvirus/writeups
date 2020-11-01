@@ -22,3 +22,5 @@
 
 4)So i used __ls -la__
 
+> Note: ls -la is used to list all the files including hidden files also
+
