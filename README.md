@@ -21,7 +21,7 @@ https://www.md5online.org/md5-decrypt.html
 
 5)You'll be greeted with this:cyctfilovesalt
 
-Enclose this value within the curly braces. That is the flag.
+6)Enclose this value within the curly braces. That is the flag.
 
 
 Flag: cyctf{ilovesalt}
