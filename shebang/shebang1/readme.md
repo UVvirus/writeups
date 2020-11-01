@@ -7,6 +7,7 @@
 > password:CYCTF{w3ll_1_gu3$$_b@sh_1s_e@zy}
 
 > Note: Password for this challenge is shebang0's flag
+
 2)Type __ls__ to list the files
 
 3)There is a file called __flag.txt__
