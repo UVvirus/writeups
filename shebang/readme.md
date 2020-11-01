@@ -24,3 +24,10 @@
 
 > Note: ls -la is used to list all the files including hidden files also
 
+5)There is a hidden file named __.flag.txt__
+
+6)Using cat command open the file
+> cat .flag.txt
+
+7)Hurrah we found the flag!!!
+> Flag:CYCTF{w3ll_1_gu3$$_b@sh_1s_e@zy}
