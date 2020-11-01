@@ -1,5 +1,5 @@
 # shebang1 | Points:125
-# This challenge is simple.
+# Challenge Description: This challenge is simple.
 
 1)Login with given credentials
 > ssh shebang1@cyberyoddha.baycyber.net -p 1337
