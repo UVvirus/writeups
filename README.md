@@ -1,12 +1,12 @@
 > # supa secure
 >
-> # 225 points
+> 225 points
 >
-> __This time it’s a little tricker to crack the password: 19d14c463333a41a1538dbf9eb76aadf
+> This time it’s a little tricker to crack the password: 19d14c463333a41a1538dbf9eb76aadf
 >
->  You might also need this for something: cyctf
+> You might also need this for something: cyctf
 >
-> Are you up for the challenge?__
+> Are you up for the challenge?
 >
 > ---------------------------------------------------------------------------------------------------
 1)First step is to identify the type of hash. For that i used this website
