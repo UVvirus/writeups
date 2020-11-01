@@ -21,3 +21,5 @@
 
 6)wow!!! we found the flag
 > Flag:CYCTF{w3ll_1_gu3$$_y0u_kn0w_h0w_t0_gr3p}
+
+Happy hacking!!!
