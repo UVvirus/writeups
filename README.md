@@ -2,11 +2,11 @@
 >
 > # 225 points
 >
-> **This time it’s a little tricker to crack the password: 19d14c463333a41a1538dbf9eb76aadf
+> __This time it’s a little tricker to crack the password: 19d14c463333a41a1538dbf9eb76aadf
 >
 >  You might also need this for something: cyctf
 >
-Are you up for the challenge?**
+> Are you up for the challenge?__
 >
 > ---------------------------------------------------------------------------------------------------
 1)First step is to identify the type of hash. For that i used this website
