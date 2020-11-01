@@ -12,14 +12,14 @@ Are you up for the challenge?
 1)First step is to identify the type of hash. For that i used this website
 https://www.tunnelsup.com/hash-analyzer/
 
-From this website i found that this is an MD5 hash.
+2)From this website i found that this is an MD5 hash.
 
-Now our goal is to decrypt this hash. To decrypt this hash i used
+3)Now our goal is to decrypt this hash. To decrypt this hash i used
 https://www.md5online.org/md5-decrypt.html
 
-Paste the hash inside the box and hit the Decrypt button.
+4)Paste the hash inside the box and hit the Decrypt button.
 
-You'll be greeted with this:cyctfilovesalt
+5)You'll be greeted with this:cyctfilovesalt
 
 Enclose this value within the curly braces. That is the flag.
 
