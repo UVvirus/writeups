@@ -1,5 +1,5 @@
 # shebang0 | Points:125
-# Challenge description
+Challenge description:
 > Welcome to the Shebang Linux Series. Here you will be tested on your basic command line knowledge! These challenges will be done threough an ssh connection. 
 >
 > Also please do not try and mess up the challenges on purpose, and report any problems you find to the challenge author. You can find the passwords at 
