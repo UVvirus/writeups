@@ -8,7 +8,7 @@
 >
 > Are you up for the challenge?
 >
------------------------------------------------------------------------------------------------------------
+--------------------------------------------------------------------------------------------------------
 1)First step is to identify the type of hash. For that i used this website
 https://www.tunnelsup.com/hash-analyzer/
 
